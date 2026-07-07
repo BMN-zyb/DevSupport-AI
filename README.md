@@ -1,3 +1,9 @@
+<div align="center">
+  
+# 请给我免费的star⭐吧，十分感谢！
+
+</div>
+
 # DevSupport AI
 
 面向 API 开放平台的多 Agent 智能客服系统。
@@ -135,3 +141,13 @@ make bench    # 并发压测 + 阶段耗时分解 + 缓存优化前后对比
 ## 深入了解
 
 本项目配有完整的教程文档（需求分析 / 方案设计 / 代码实践 / 简历面试），涵盖技术方案设计、性能优化与验收记录等内容，详见配套的项目文档。
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=BMN-zyb%2FDevSupport-AI&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BMN-zyb/DevSupport-AI&type=date&theme=dark&legend=top-left&sealed_token=dGj_uqq6o0HQSeUp0H1kCDPbJH4yv864pbO2YoMozBIBAVhofRHWNetRhWR2d9eIa1rqHTibqz5kO_cQ_i-4TAKWW91VsDI5Lz-lRI6rMSOjxguRUeSdgg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BMN-zyb/DevSupport-AI&type=date&legend=top-left&sealed_token=dGj_uqq6o0HQSeUp0H1kCDPbJH4yv864pbO2YoMozBIBAVhofRHWNetRhWR2d9eIa1rqHTibqz5kO_cQ_i-4TAKWW91VsDI5Lz-lRI6rMSOjxguRUeSdgg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BMN-zyb/DevSupport-AI&type=date&legend=top-left&sealed_token=dGj_uqq6o0HQSeUp0H1kCDPbJH4yv864pbO2YoMozBIBAVhofRHWNetRhWR2d9eIa1rqHTibqz5kO_cQ_i-4TAKWW91VsDI5Lz-lRI6rMSOjxguRUeSdgg" />
+ </picture>
+</a>
